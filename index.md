@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+# Shuchaku
 
-You can use the [editor on GitHub](https://github.com/MarksZero/app/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Aplicación que te facilitara la vida en los tiempos actuales donde hasta los locales de comida te entregan la carta por medio de códigos QR
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image](https://github.com/MarksZero/app/blob/main/imagen_2021-12-16_114613.png)
+<p>&nbsp;</p>
 
-### Markdown
+[𝘿𝙀𝙎𝘾𝘼𝙍𝙂𝘼 𝘿𝙄𝙍𝙀𝘾𝙏𝘼 ✔️](https://github.com/MarksZero/app/blob/main/Shuchaku.apk)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p>&nbsp;</p>
 
-```markdown
-Syntax highlighted code block
+    Informacion: 
 
-# Header 1
-## Header 2
-### Header 3
+         -Este proyecto trata de una aplicacion que lee codigos QR mediante la camara.
 
-- Bulleted
-- List
+         -La creacion de esta app se hizo con "****************".
 
-1. Numbered
-2. List
+         -La creacion de esta pagina web fue por GitHub Pages y se uso Markdown.
 
-**Bold** and _Italic_ and `Code` text
+<p>&nbsp;</p>
 
-[Link](url) and ![Image](src)
-```
+    Integrantes:
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+        Desarrollo de app 📱🔨
 
-### Jekyll Themes
+          Billy Martínez    ---> b.martinez10@ufromail.com
+  
+  
+        Diseño visual aplicacion y desarrollo pagina web 📱🔨
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MarksZero/app/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+          Pablo Martínez    ---> p.martinez10@ufromail.com
 
-### Support or Contact
+<p>&nbsp;</p>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Funcionamiento🔧
+
+     Dependiendo de la opción seleccionada la aplicación es capaz de leer códigos QR y copiar 
+     el link al portapapeles mediante el uso de la cámara o generar un código QR.
+
+<p>&nbsp;</p>
+
+
+## Capturas de la aplicacion
+
+
+<img src="https://github.com/MarksZero/app/blob/main/imagen_2021-12-16_123918.png" width="350">   <img src="https://github.com/MarksZero/app/blob/main/imagen_2021-12-16_123924.png" width="350">
