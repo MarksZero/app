@@ -2,10 +2,10 @@
 
 Aplicación que te facilitara la vida en los tiempos actuales donde hasta los locales de comida te entregan la carta por medio de códigos QR
 
-![Image](https://github.com/Billyflin/Shuchaku/blob/master/imagen_2021-12-16_114613.png)
+![Image](https://github.com/MarksZero/app/blob/main/imagen_2021-12-16_114613.png)
 <p>&nbsp;</p>
 
-[𝘿𝙀𝙎𝘾𝘼𝙍𝙂𝘼 𝘿𝙄𝙍𝙀𝘾𝙏𝘼 ✔️](https://github.com/Billyflin/Shuchaku/raw/master/Shuchaku.apk)
+[𝘿𝙀𝙎𝘾𝘼𝙍𝙂𝘼 𝘿𝙄𝙍𝙀𝘾𝙏𝘼 ✔️](https://github.com/MarksZero/app/blob/main/Shuchaku.apk)
 
 <p>&nbsp;</p>
 
@@ -43,5 +43,5 @@ Aplicación que te facilitara la vida en los tiempos actuales donde hasta los lo
 ## Capturas de la aplicacion
 
 
-<img src="https://github.com/Billyflin/Shuchaku/blob/master/imagen_2021-12-16_123918.png" width="350">   <img src="https://github.com/Billyflin/Shuchaku/blob/master/imagen_2021-12-16_123924.png" width="350">
+<img src="https://github.com/MarksZero/app/blob/main/imagen_2021-12-16_123918.png" width="350">   <img src="https://github.com/MarksZero/app/blob/main/imagen_2021-12-16_123924.png" width="350">
 
