@@ -23,12 +23,12 @@ Aplicación que te facilitara la vida en los tiempos actuales donde hasta los lo
 
         Desarrollo de app 📱🔨
 
-          Billy Martínez    ---> b.martinez10@ufromail.com
+          Billy Martínez     ---> b.martinez10@ufromail.com
   
   
         Diseño visual aplicacion y desarrollo pagina web 📱🔨
 
-          Pablo Martínez    ---> p.martinez10@ufromail.com
+          Pablo Martínez     ---> p.martinez10@ufromail.com
 
 <p>&nbsp;</p>
 
